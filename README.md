@@ -1,10 +1,4 @@
 
-<h1 align="center">
-  <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/JeffreytheCoder/med-chain/blob/master/client/src/assets/tealNoBG-cropped.png?raw=true" alt="Markdownify" width="300"></a>
-  <br>
-</h1>
-
 <h4 align="center">A blockchain-based Electrical Medical Records (EMR) system.</h4>
 
 <p align="center">
@@ -25,7 +19,6 @@ On MedChain,
 - The health provider can search for a patient’s records using the address, and upload a new record for the patient. 
 - The patient can also view his or her records, after connected with a wallet which address is registered by the health provider.
 
-This project is the 3rd place winner of [NextStep Hacks 2022](https://devpost.com/software/medchain-k4wzry).
 
 ## How It Works
 
@@ -69,15 +62,4 @@ $ npm start
 ```
 
 You should be able to see the application running at http://localhost:3000.
-
-
-## Support
-
-If you like this project, please leave a star ⭐️. This helps more people to know this project.
-
----
-
-> [jeffreyyu.dev](https://jeffreyyu.dev/) &nbsp;&middot;&nbsp;
-> GitHub [@jeffreythecoder](https://github.com/JeffreytheCoder/JeffreytheCoder) &nbsp;&middot;&nbsp;
-> Twitter [@jeffreyzepengyu](https://twitter.com/jeffreyzepengyu)
 
